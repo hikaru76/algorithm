@@ -16,4 +16,3 @@ for i in range(h):
         if j < w - 1:
             print(' ', end='')
     print()
-
